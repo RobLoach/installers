@@ -19,6 +19,7 @@ class Installer extends LibraryInstaller
         'cakephp'      => 'CakePHPInstaller',
         'chef'         => 'ChefInstaller',
         'codeigniter'  => 'CodeIgniterInstaller',
+        'component'    => 'ComponentInstaller',
         'concrete5'    => 'Concrete5Installer',
         'craft'        => 'CraftInstaller',
         'croogo'       => 'CroogoInstaller',
